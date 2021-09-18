@@ -21,7 +21,9 @@
   <div class="d-flex flex-column px-3 h-75">
     <textarea placeholder="¿Qué sucedió hoy?"></textarea>
   </div>
-  <Fab />
+  <Fab 
+    icon="fa-save"
+  />
   <img
     src="https://openexpoeurope.com/wp-content/uploads/2019/12/flutter-logo-sharing.png"
     alt="entry-picture"
